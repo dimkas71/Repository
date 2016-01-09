@@ -110,6 +110,8 @@
 			<Language>Русский</Language>
 			<Catalog>КлассификаторЕдиницИзмерения</Catalog>
 			<Catalog>Валюты</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>ТипыЦенНоменклатуры</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
