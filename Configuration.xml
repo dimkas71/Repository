@@ -108,6 +108,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>КлассификаторЕдиницИзмерения</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
