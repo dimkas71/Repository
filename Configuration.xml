@@ -108,6 +108,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<XDTOPackage>КлассификаторВалют</XDTOPackage>
 			<Catalog>КлассификаторЕдиницИзмерения</Catalog>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Номенклатура</Catalog>

@@ -1,0 +1,20 @@
+﻿<package xmlns="http://v8.1c.ru/8.1/xdto" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="tisForUkraine">
+	<property name="Items">
+		<typeDef xsi:type="ObjectType">
+			<property name="Description" type="xs:string" lowerBound="0" form="Attribute"/>
+			<property name="Columns" type="xs:string" lowerBound="0" form="Attribute"/>
+			<property name="Item" lowerBound="0" upperBound="-1">
+				<typeDef xsi:type="ObjectType">
+					<property name="Code" type="xs:short" lowerBound="0" form="Attribute"/>
+					<property name="CodeSymbol" type="xs:string" lowerBound="0" form="Attribute"/>
+					<property name="Name" type="xs:string" lowerBound="0" form="Attribute"/>
+					<property name="NameUkr" type="xs:string" lowerBound="0" form="Attribute"/>
+					<property name="FinanceLoading" type="xs:string" lowerBound="0" form="Attribute"/>
+					<property name="RusNumerationItemOptions" type="xs:string" lowerBound="0" form="Attribute"/>
+					<property name="UkrNumerationItemOptions" type="xs:string" lowerBound="0" form="Attribute"/>
+					<property name="__content" type="xs:string" form="Text"/>
+				</typeDef>
+			</property>
+		</typeDef>
+	</property>
+</package>
