@@ -112,6 +112,7 @@
 			<Catalog>Валюты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ТипыЦенНоменклатуры</Catalog>
+			<InformationRegister>КурсыВалют</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
