@@ -171,7 +171,6 @@
 				</Properties>
 			</Attribute>
 			<Template>КлассификаторВалют</Template>
-			<Template>XSDСхемаДляКлассификатора</Template>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
